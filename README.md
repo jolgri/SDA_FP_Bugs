@@ -1,3 +1,3 @@
-# SDA_FP_Bugs
-The set of defects detected during the testing of webpage https://homeworks.tester.en.sdacademy.pro/programming_fundamentals
-The final project with attachements added.
+#Software Development Academy (SDA) Final project. Software tester course. 
+
+This folder contains files realetd to the final SDA academy Software tester . The students use a webpage for self-training Exercises: Software Tester (https://homeworks.tester.en.sdacademy.pro/). The purpose of this document is to describe and perform test on one of the biggest part of this webpage: Programming fundamentals. This part of exercises requires from users JAVA skills. JAVA IDE tools: IntelliJ IDEA Community v.2020.1.3. was used to run JAVA scripts. 
